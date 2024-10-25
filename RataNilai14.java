@@ -14,7 +14,7 @@ public class RataNilai14 {
         while (i <= n) {
             totalNilai = 0;
             System.out.println("Input nilai mahasiswa ke " + i);
-            for ( j = 1; j <= 5; j++) {
+            for ( j = 1; j <= 6; j++) {
                 System.out.print("Nilai ke " + j + ": ");
                 nilai = sc.nextFloat();
                 totalNilai += nilai;
