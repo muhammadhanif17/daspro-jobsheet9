@@ -24,5 +24,6 @@ public class Piramid {
             spasi--;
             bintang += 2;
         }
+            
     }
 }
